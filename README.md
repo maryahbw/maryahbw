@@ -55,8 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maryahbw/maryahbw/output/snake.svg" alt="Snake animation"/>
-
-###
-
 
